@@ -5,6 +5,8 @@
 
 ROS package for saving pointcloud data as PCD file.
 
+Save path is `~/.ros/map_cloud.pcd`.
+
 ## Environment
 - Ubuntu 20.04
 - ROS Noetic
